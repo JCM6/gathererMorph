@@ -1,0 +1,1 @@
+Contains all of the images and media associated with a given thme. This includes sfx, textures, gifs, video.
